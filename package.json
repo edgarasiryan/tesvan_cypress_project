@@ -1,0 +1,23 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/edgarasiryan/tesvan_cypress_project#readme",
+  "bugs": {
+    "url": "https://github.com/edgarasiryan/tesvan_cypress_project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarasiryan/tesvan_cypress_project.git"
+  },
+  "license": "ISC",
+  "author": "Edgar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
